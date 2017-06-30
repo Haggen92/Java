@@ -1,0 +1,68 @@
+*Java
+Conceptos del paradigma:
+-ObjectClass
+-Inheritance
+-Polymorphism
+-Abstraction
+-Encapsulation
+
+	*Abstraccion
+	*Encapsulacion
+	*Polimorfismo
+	*Herencia
+	*Modularidad
+
+Modificador de acceso:
+public, private, protected, default
+
+
+Parametro: rango de valores.
+Argumento: un solo valor.
+
+se pueden tener muchos mains siempre y cuando solo uno lleve los corchetes [].
+
+La sentencia if no spermie evaluar desiciones simples o compuestas.
+	-declaracion if
+	-declaracion if-else
+	-declaracion if anidada
+
+
+Problemas:
+1.-Serie de Fibonacci sin recurcion.
+2.-Escribe un programa en Java para verificar si un numero es primo.
+3.-Calcular el factorial de un numero.
+4.-Escribe un programa en java para ordenar los elemenots de un arreglo usando el algoritmo burbuja, selection y de insertion
+
+
+Clase object:la madre de todas las clases en java
+
+
+Tipos de herencia:
+*Simple
+*Multi nivel
+*Jerarquica
+*Multiple
+*Hibrida
+
+
+
+
+
+Firma o signatura
+
+*Modificadores->public, private, protected/default
+*Tipo de retorno -> int, double.....
+*Lista de parametros->x,y,ciudad
+*Nombre
+
+
+
+
+
+Override: Redefinicion
+
+Overload: Sobrecarga
+Super();
+
+ciclos de vida, metodos callback, como se creran, multitarea, proceso
+

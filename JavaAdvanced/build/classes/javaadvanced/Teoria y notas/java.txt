@@ -1,0 +1,39 @@
+monsh8@gmail.com
+@imonsh
+
+Github/FernandaOchoa/CursoJavaAdvancedCuliacan
+
+lunes: repaso de java POO
+martes: excepciones y multithreading
+miercoles: sincronizacion y java IO
+jueves: networking
+viernes: chat
+
+
+conceptos basicos
+*objectsClass ----entidad que pasee (comportamiento,)
+*Inheritance ----cuando una entidad adquiere los comportamientos y atributos del padre
+*Polymorphism ---una tarea realizada de diferentes formas
+*Abstraction ---oculta detalles internos y solo muestra funcionamiento
+*Encapsulation ---permite englobar la abtraccion funcional del codigo
+
+
+al final de la clase
+-Diagrama UML
+-Algoritmo
+-Pojo
+-Clase Prueba
+
+--Singleton
+-Interface
+-Abstrac
+
+para el manejo es excepciones se utiliza
+try
+catch
+throw
+throws
+finally
+
+
+
